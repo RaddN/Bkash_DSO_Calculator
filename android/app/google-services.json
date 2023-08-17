@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064523168761",
+    "project_id": "bkash-dso-calculator",
+    "storage_bucket": "bkash-dso-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064523168761:android:77b765f288f4a30daddb28",
+        "android_client_info": {
+          "package_name": "com.bkash.bkashdsocalculator.bkashdsocalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064523168761-0mqu60dkeg4gfl3u59od63buhqscgc0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBSL_FTJlQ3NSPnyeYh55YrAoeWCQ6MiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064523168761-0mqu60dkeg4gfl3u59od63buhqscgc0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
